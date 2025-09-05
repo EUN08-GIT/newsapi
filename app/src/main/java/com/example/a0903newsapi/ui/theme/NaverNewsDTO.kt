@@ -15,3 +15,4 @@ data class NewsItem(
     val description : String,
     val pubDate : String
 )
+
